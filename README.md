@@ -16,6 +16,11 @@
 
 This data analysis project aims to provide insights into key loan-related metrics and their changes over time for City Bank (fictional) customer’s dataset at different locations in the U.S. By analyzing various aspects of this dataset, we seek to monitor and assess the bank's lending activities and performance towards creating  a comprehensive Bank Loan Report and gain a deeper understanding of the bank's lending performance. 
 
+
+![Dashboard - Summary](https://github.com/DYAKY1/City-Bank-Lending-Activities-Performance/assets/144592342/4af910b3-eb46-4ecd-97bb-a923fa247bbd)
+
+![Dashboard - Overview](https://github.com/DYAKY1/City-Bank-Lending-Activities-Performance/assets/144592342/c8bf0089-3030-4050-942e-31ec82a58caa)
+
 ### Data Sources
 
 City Bank Data: The primary dataset used for this analysis is the "Data.xlsl" file, containing detailed information needed for this analysis about borrowers from City Bank. 
